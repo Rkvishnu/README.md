@@ -28,9 +28,11 @@
 
 Front-End: **TypeScript** **NextJs**
 <br />
-Back-End: **PSQL** **NodeJS**
-<br />
 Smart-Contracts : **Solidity** **Rust**
+<br />
+Back-End:  **NodeJS**
+
+
 ---
 
  
