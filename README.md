@@ -1,6 +1,6 @@
  
-### Hi there, I'm Vishnu Rathore check out my -> [Website]👋
-## A Computer Science Geek who loves to code and learn new things each day. 
+### Hi there, I'm Vishnu Rathore from India, check out my -> [Website]👋
+## A Computer Science Geek  and Full Stack Blockchain Developer who loves to code and learn new things each day. 
 
 
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
@@ -8,6 +8,7 @@
 
 ## I'm a Full-Stack Developer who is eager to learn!
 - 🤓 I’m currently learning more about Javsscript,Typescript,Blockchain,Ethereum,Solidity and Rust 
+- 👯 I’m looking to collaborate on exciting **Blockchain Projects**
 - 👨🏻‍💻 I’m looking to build meaningfull Decentralised Apps that are helpful in web3 space
 - 🙌🏼 2022 Goals: Learn and be able to scale with Next.JS and Creating more complex contracts with Solidity
 - 🧑‍💻 Interests:  Blockchain Technology, World Affairs, Book Reading......
